@@ -1,4 +1,4 @@
-# HNU_Solar_Online_Tool
+# HNU Solar Online Tool
 -----------------------
 This is an online tool for calculating the solar heat gain of occupants in buildings.
 
