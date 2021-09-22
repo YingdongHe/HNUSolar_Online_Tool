@@ -1,4 +1,4 @@
-# HNU Solar Online Tool
+# HNU Solar Online Tool version 1.0
 -----------------------
 This is an online tool for calculating the solar heat gain of occupants in buildings.
 
@@ -9,3 +9,6 @@ The original mathematical model is from the paper of Yingdong He et al. (Yingdon
 The method of reading climatic parameters from epw files is from # [epwvis](http://mdahlhausen.github.io/epwvis).
 
 EPW files can be downloaded from [epwmap](http://mostapharoudsari.github.io/epwmap) or the [EnergyPlus weather](https://energyplus.net/weather) website.
+
+-----------------------
+2021/09/21 Version 1.0 Published by Yingdong He
