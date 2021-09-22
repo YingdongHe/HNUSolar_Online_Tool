@@ -2,7 +2,11 @@
 -----------------------
 This is an online tool for calculating the solar heat gain of occupants in buildings.
 
+The online tool address # [HNU Solar Online](https://yingdonghe.github.io/HNU_Solar_Online_Tool/).
+
 This tool is developed by Yingdong He and Jing Yuan, at University of California, Berkeley.
+
+To cite this tool: Yingdong He, Jing Yuan. HNU Solar Online Tool. https://yingdonghe.github.io/HNU_Solar_Online_Tool/ (2021).
 
 The original mathematical model is from the paper of Yingdong He et al. (Yingdong He, Edward Arens, Nianping Li, et al. Modeling solar radiation on a human body indoors by a novel mathematical model. Building and Environment, 2021, 187: 107421).
 
