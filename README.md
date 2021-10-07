@@ -14,5 +14,7 @@ The method of reading climatic parameters from epw files is from # [epwvis](http
 
 EPW files can be downloaded from [epwmap](http://mostapharoudsari.github.io/epwmap) or the [EnergyPlus weather](https://energyplus.net/weather) website.
 
+If you have any comments on this tool, feel free to contact us at heyingdong2014@139.com.
+
 -----------------------
 2021/09/21 Version 1.0 Published by Yingdong He
